@@ -1,6 +1,6 @@
 # Executive Sales & Performance Dashboard (Power BI)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Overview
 An interactive executive BI dashboard built in Power BI Desktop analyzing sales volume ($2.3M), profitability, and YoY growth trends for a multi-regional retail business.
